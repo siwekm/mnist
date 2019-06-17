@@ -1,4 +1,4 @@
-# mnist
-Neural Net for recognizing numbers - using MNIST dataset
+# Neural Net for recognizing numbers - using MNIST dataset
+
 
 
